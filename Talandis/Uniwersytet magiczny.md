@@ -1,0 +1,2 @@
+1. W katedrze nekromancji dziekanem jest licz. Nie jest on owładnięty żądzą władzy.
+2. Kapituła nie ma problemu z najróżniejszymi eksperymentami. Jak np. testy odnośnie odmrożeń lub efektów innych zaklęć przeprowadzanych na żywych osobnikach.

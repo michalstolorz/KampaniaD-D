@@ -1,0 +1,1 @@
+W centrum trzech wysp znajduję się świątynia która podniesie się z wody po aktywacji 3 filarów na każdej z wysp. W głównej komnacie znajduje się kamienny golem, jakiś artefakt(TODO) oraz zejście w dół. Skrywać się tam będzie szkielet arcymaga z Bellaris wraz z naszyjnikiem z Suzei. 

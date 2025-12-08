@@ -1,0 +1,1 @@
+Znajduję się tu główna baza wyznawców pragnących powrotu Hexisa.

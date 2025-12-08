@@ -1,0 +1,1 @@
+[[Gorblin/Karczmy|Karczmy]]

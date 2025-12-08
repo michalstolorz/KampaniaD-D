@@ -1,0 +1,1 @@
+Będąc w bibliotece zakonnej będą mogli natknąć się na ludzi w zbrojach. Na pierwszy rzut oka wyglądają na rycerzy ale nie czytają zbytnio pasujacych ksiąg. Interesuja ich informacje o duszach. Jak przywrócić dusze do zaklętego ciała. Jak odczarować zapieczętowane ciało?
