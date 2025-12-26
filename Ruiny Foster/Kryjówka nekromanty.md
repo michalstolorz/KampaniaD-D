@@ -19,5 +19,7 @@ oraz listy.
 
 
 
-![[Wraith.png]]![[Wight.png]]
+![[Wraith.png]]
+![[Specter.png]]
+![[Wight.png]]
 ![[Skeleton.png]]![[Zombie.png]]

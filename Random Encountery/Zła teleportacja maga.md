@@ -1,0 +1,1 @@
+Podczas podróży bohaterowie mijają oddział Inkwizycji złożony z templariusza, kleryka i 4 rekrutów. Po minięciu się za ich plecami teleportuje się mag, który pomylił koordynaty teleportu i przeniósł się w to miejsce. Bohaterowie mogą go uratować albo zostawić aby pojmała go inkwizycja.
