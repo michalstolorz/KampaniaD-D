@@ -1,0 +1,2 @@
+1. Użycie kopalni i przebicie się do sieci ścieżek pod twierdzą. Po odkryciu tajemnicy w meteorytowej tawernie sztygar górniczy powie o tym bohaterom aby dostali się dzięki temu do twierdzy i zakończyli te bezsensowną wojnę.
+2. Umowa handlowa zawarta z Gildią kupiecką z Murkwell na mocy której na życzenie bez zapowiedzi wysłannik gildii może przybyć i zażądać dostępu do archiwum handlowego królestwa w celu przeprowadzenia audytu finansowego.  
