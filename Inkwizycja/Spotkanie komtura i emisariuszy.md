@@ -1,0 +1,1 @@
+1. Podczas spotkania dochodzi do decyzji aby rozdzielić grymuary gdyż przez nie dochodzi do anomalii planarnych na terenie siedziby Inkwizycji. Jeden zostanie wysłany do garnizonu w Balmerze a drugi do garnizonu w Cassario. 
