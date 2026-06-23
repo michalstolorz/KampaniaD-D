@@ -1,0 +1,3 @@
+**Cel:** Krasne Niwa to kluczowy punkt na zachodnim brzegu — wioska kontrolująca skrzyżowanie dróg prowadzących do wszystkich chłopskich punktów oporu. Chłopi trzymają ją za pomocą barykad i grupy około czterdziestu walczących wieśniaków.
+
+**Mechanika:** Vorn nie chce masakry cywilów — to skomplikowałoby sytuację politycznie. Chce żeby drużyna *negocjowała* kapitulację Krasnych Niw, ewentualnie zneutralizowała kilku liderów rebelii w wiosce bez rozlewu krwi wobec cywilów. Jeśli drużyna wycofa się z etyki i urządzi masakrę, Vorn będzie z nich korzystał ale ich nie polubi — co utrudni audiencję u królowej.

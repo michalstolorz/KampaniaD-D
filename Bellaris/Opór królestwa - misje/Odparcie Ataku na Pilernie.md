@@ -1,0 +1,4 @@
+**Kontekst z mapy:** Pularnia przy Pitrze to punkt przeprawowy i jeden z magazynów zaopatrzeniowych armii królewskiej. Chłopi planują nocny atak — Vorn ma o tym informacje od szpiega ale nie ma wolnych oddziałów żeby wzmocnić obronę.
+
+
+**Mechanika:** Drużyna musi obronić magazyn przez jedną noc przed falami atakujących — bardziej pościg i gaszenie pożarów niż wielka bitwa. W pewnym momencie okazuje się że wśród atakujących jest ktoś kto zna układ magazynu od środka — szpieg po stronie królewskiej który teraz pomaga chłopom. Drużyna może go złapać żywego (Vorn nagrodzi to szczodrze i pomoże w audiencji u królowej) lub po prostu odeprzeć atak.

@@ -1,10 +1,13 @@
 [[Czerwona Twierdza]]
 [[Kamienny port]]
 [[Bellaris/Karczmy|Karczmy]]
+[[Biblioteka Arcymaga Vespala]]
 
 Królowa Maera
 
 1. Podczas misji w Bellaris dotyczącej zatopienia statków dla rebeliantów, po porcie będzie przechodził attache wojskowy z dużą obstawą zbrojnych niosący wiadomości o ściągnięciu posiłków z misji morskich ponieważ wszystkie siły jakie mają stacjonują w garnizonach na rzece Piler, żeby nie dać dotrzeć rebeliantom do czerwonej twierdzy. Nikogo nie ma w czerwonej twierdzy, jedynie siły porządkowe, które są uszczuplone. W listach wspomina również o pomocy Inkwizycji, która jest niezwykle istotna w celu stłumienia buntu. Za pomoc nic nie chcieli poza dostęp do biblioteki królewskiej oraz wieży arcymaga. Listy również proszą o szybką pomoc finansową w postaci pożyczki od Gildi handlowej bądź ściągniecia długów ponieważ górnicy oraz rzemieślnicy z miast tracą morale ze względu na pogorszenie się ich stanu materialnego i są skłoni do zmiany strony. Duch patriotyzmu w nich poległ i jedynie złoto trzyma ich po królewskiej stronie.
+
+Do Bellaris wraz z bohaterami przybywa oddział Inkwizycji na czele którego stoi [[Frans Eselio.jpg]]. Wchodzą do środka przekonując chłopską straż że są tutaj aby pomóc im w rebeli, a tak naprawde zależy im tylko na grymuarze. Odział składa się z najbardziej sfanatyzowanych żołnierzy Inkwizycji.
 
 
 

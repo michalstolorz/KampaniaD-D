@@ -1,0 +1,5 @@
+**Liga Srebrnego Szlaku** — tak nazywa się gildia kupiecka Murkwell. Nazwa pochodzi od szlaku transportu srebra przez Murkwell dalej w świat. Dziś już ten eksport nie działa, ale nazwa pozostała bo brzmi poważnie i wszyscy się do niej przyzwyczaili.
+
+Na czele stoi **Mistrz Handlu Osvyn Rael** — pięćdziesięcioletni człowiek który wygląda jak sympatyczny wujek i ma instynkty drapieżnika. Nigdy nie krzyczy, nigdy nie grozi wprost, zawsze mówi spokojnie i z uśmiechem. Jego spokój jest tym czego ludzie się boją najbardziej bo oznacza że sytuacja jest całkowicie pod jego kontrolą.  
+
+Gildia ma w Murkwell pięciu **Kontrolerów Handlu** — urzędników z oficjalnymi tytułami miejskimi którzy w praktyce są oczami i uszami Raela. Każdy kontroluje inną część miasta i inny sektor handlu. Wschodnie nabrzeże — gdzie jest magazyn diabolistów — należy do **Kontrolera Duvarra**, grubego krasnoluda który ma obsesję na punkcie dokumentacji i prowadzi notatki o wszystkim co dzieje się na jego terenie.

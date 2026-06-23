@@ -13,7 +13,7 @@ W dungeonie będzie znajdowała się ukryta komnata. Będzie można w niej znale
 - Potion of resistance poison
 - cloak of protection
 oraz listy.
-"Nekromanto, zwiemy się akolitami Hexisa. Pragniemy przywrócić naszego Pana do życia. W tym celu potrzeba nam armii, którą Ty wraz ze swoimi współ konfraterami jesteście w stanie nam stworzyć. W ramach gestu dobrej woli przesyłam Ci ten o to kryształ oraz tych 2 zdrowych akolitów. Przemień ich w potężne istoty i pokaż mi jaką mocą władają wygnani nekromanci. Po zakończonym rytuale odpraw ich w kierunku Balmery." (podpisano znak Hexisa)
+"Nekromanto, zwiemy się akolitami Hexisa. Pragniemy przywrócić naszego Pana do życia. W tym celu potrzeba nam armii, którą Ty wraz ze swoimi współ konfraterami jesteście w stanie nam stworzyć. W ramach gestu dobrej woli przesyłam Ci ten o to kryształ oraz tych 2 zdrowych akolitów. Przemień ich w potężne istoty i pokaż mi jaką mocą władają wygnani nekromanci. Po zakończonym rytuale odpraw ich w kierunku Balmery." (podpisano [[Znak wyznawców Hexisa.jpg]])
 
 "Ameliusie, propozycja od tych akolitów brzmi interesująco. Nadano nam ponownie cel po tym jak zostaliśmy wygnani z Talandis. Zgłębialiśmy tak długo sztukę nekromancką, a teraz pokażemy światu owoce naszych badań! Taxir miał racje prowadząc nas tutaj na południe, gdzie wydarzyły się okrucieństwa Hexisa. Nie ma przeszkód które staną na drodze magii i nauce. Przekaż im dobre wieści" -Sehirus
 

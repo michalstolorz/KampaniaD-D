@@ -1,0 +1,1 @@
+Dowódca - kapitan Grendal

@@ -1,0 +1,26 @@
+![[Hol wejściowy.png]]
+# **Opis pomieszczenia:**
+
+Wchodząc przez drzwi bohaterowie trafiają do okrągłej sali o wysokości dwóch kondygnacji. Podłoga wyłożona jest czarno-białymi kafelkami w szachownicę, a ściany pokryte są setkami namalowanych oczu różnych rozmiarów — ludzkich, zwierzęcych, jaszczurczych, a nawet wyraźnie nieludzkich. Wszystkie oczy są zamknięte. Na przeciwko od drzwi wejściowych są kolejne duże drzwi, identyczne jak te do wieży z dużą klamrą. W centrum sali stoi kamienny postument z kamiennym okiem na nim oraz wyrytym napisem w staroelvańskim: ***"Widzę wszystko czego inni nie widzą. Jestem obecny gdy zamkniesz własne. Czym jestem?"*.** Pod postumentem wyraźna szczelina na monetę lub przedmiot. Po bokach sali dwie pochodnie w uchwytach — nie palą się, ale są suche i gotowe. Drzwi są zamknięte na arcane lock i są zwykłą przynętą. Jeśli zostanie na nich użyte zaklęcie Knock drzwi się otworzą i będzie można zobaczyć napis na ścianie: "*Jestem pod wrażeniem. Skoro pałasz się taką magią to moja zagadka nie powinna stanowić dla Ciebie problemu."*
+
+# **Zagadka:**
+
+Odpowiedź to *"sen"* lub *"wyobraźnia"* — obie są akceptowane przez mechanizm. Gdy gracz wypowie odpowiedź na głos lub wrzuci do szczeliny kartkę z napisem (Vespal był pedantem i przewidział obie opcje), wszystkie namalowane oczy na ścianach otwierają się jednocześnie, a pochodnie zapalają się białym magicznym ogniem. Schody spiralne w podłodze sali między postumentem a fałszywymi drzwiami się ujawniają. Były zakryte magią iluzji. Schodzi się nimi w dół, a naprawde idzie się nimi do góry. Kolejna sztuczka Vespala.
+
+**Jeśli drużyna spróbuje wyważyć drzwi lub obejść zagadkę siłą:** Oczy na ścianach otwierają się ale są krwistoczerwone. Z sufitu opada żelazna krata blokując wyjście, a z podłogi wyłaniają się dwa niewidzialne stalkersy zaklęte tu przez Vespala jako strażnicy. Można je pokonać, kratę można podnieść siłą (DC 20 Athletics) lub zaklęciem — ale Vespal liczył na to że prawdziwi badacze użyją umysłu, nie mięśni.
+
+![[Invisible Stalker.png]]
+
+Gdy pochodnie zapalają się białym ogniem po rozwiązaniu zagadki, uważny gracz może zauważyć że cienie rzucane przez ten ogień zachowują się inaczej niż powinny. Cienie nie odpowiadają kształtom przedmiotów w pomieszczeniu — poruszają się jakby należały do innych obiektów, w innych pozycjach. Vespal zaklnął hol tak by na jego ścianach przez cały czas wyświetlały się eteryczne echa poprzednich odwiedzających — cienie to właśnie one, zapis na granicy planów.
+
+Gracz który wykona test Arcana DC 13 rozpozna że to nie iluzja ale prawdziwy przebłysk planu eterycznego — rzadka i kosztowna metoda utrwalania wspomnień przestrzeni. Gracz który wejdzie w stan medytacji lub użyje zaklęcia *Detect Magic* zobaczy przez chwilę wyraźniej: sala wypełniona jest półprzezroczystymi sylwetkami ludzi w różnych pozach, niektórzy gestykulują, jeden klęczy przy postumencie z zagadką, kilka postaci stoi w grupce przy wejściu. Żadna nie reaguje na drużynę — to tylko echo.
+
+Klika postaci jest rozpoznawalnych. Jest to królowa Bellaris Maera, Marcun, emistariusz Frans Eselio.
+
+**Wśród cieni można rozpoznać jedną sylwetkę która się wyróżnia** — stoi oddzielnie, przy ścianie, i ma kaptur zasłaniający twarz. Nie wchodzi w interakcję z innymi echami. Gracz który ją obserwuje przez pełną rundę zauważy że sylwetka odwraca głowę w stronę obserwatora — co jest niemożliwe jeśli to tylko zapis przeszłości. Vespal nigdy nie wyjaśnił w swoich notatkach tej anomalii. Przy postumencie pojawia się nowy drobny detal: po bokach wyrytego pytania, prawie niewidoczne, biegnie ciąg mniejszych symboli w języku eterycznym — starożytnym dialektem używanym przez duchy i zjawy. Przetłumaczony przez kogoś znającego ten język lub po udanym teście Arcana DC 17 brzmi: *"Echo nie kłamie. Tylko my kłamiemy sobie o tym co widzimy."*
+  
+# **Przedmioty do znalezienia:**
+
+Na małej półce przy wejściu, jakby rzucona mimochodem, leży **Księga gości Vespala** — zwykły gruby zeszyt w skórzanej oprawie. Zawiera wpisy odwiedzających przez ostatnie dekady, z komentarzami maga. Ostatni wpis sprzed 6 lat. Wcześniejsze strony zawierają cenne informacje — wśród gości pojawia się kilkukrotnie nazwisko **Marcun** (przywódca Ekspedycji Pustynnych Piasków) z adnotacją Vespala: *"Obiecujący. Zbyt obsesyjny w kwestii pustyni. Pokazałem mu fragment mapy — nie powinienem był tego robić."* Kilka wpisów dotyczy królowej. Odwiedzała arcymaga w celach porozmawiania o królestwie, lekach i sposobach zapomnienia o zmarłym mężu królu Horwaldzie. Są również wpisy o Fransie Eselio: "*Straszny gbur. Jakim cudem jest tak wysoko postawionym dostojnikiem w fanatycznej organizacji militarnej. Królowa wie lepiej jak z nim rozmawiać, aby zostawił mnie w spokoju.*" Odwiedział wieże kilka razy w ramach "rutynowych kontroli", a następnie w celach wypytania się o grymuar.
+
+Na odwrocie półki z Księgą Gości, przyklejona woskiem do drewna, czeka **Mapa Eteryczna Holu** — mały pergamin który Vespal narysował pokazując jak wygląda wejście do wieży z perspektywy planu eterycznego. Na rysunku hol jest znacznie większy, pełen korytarzy które nie istnieją fizycznie, a w centralnym punkcie narysowane jest coś co wygląda jak studnia bez dna. Pod rysunkiem dopisek: *"Nie wchodzić do studni bez kotwicy. Straciłem tam trzy dni subiektywnego czasu."*
