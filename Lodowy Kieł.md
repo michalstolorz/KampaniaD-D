@@ -1,0 +1,5 @@
+Serce z Czarnego Lodu z Lodowego Kła
+
+**Co to jest:** Na północy kontynentu, na wyspie Lodowy Kieł, w najgłębszej szczelinie lodowca znajduje się naturalnie uformowana bryła lodu która nigdy nie topnieje — nawet przy ogniu. Miejscowi rybacy nazywają ją Sercem Zimy i omijają z daleka bo zwierzęta które zbliżają się do szczeliny nie wracają. Kultyści wiedzą że jest to miejsce gdzie podczas Ostatecznego Rozliczenia Hexis wykonał pierwszy etap swojego rytuału niszczenia — zaklinował część własnej duszy w lodzie jako *"kotwicę bezpieczeństwa"* na wypadek gdyby coś poszło nie tak.
+
+**Gdzie gracze na to natrafiają:** Lodowy Kieł jest z dala od głównych szlaków, ale w Murkwell krążą plotki o statkach których załogi widziały przy wyspie dziwne światła i słyszały śpiew w nieznanym języku. Kultyści już tam byli — gracze mogą zastać tylko ślady po ich obozie, puste opakowania po rytuałach i jednego kultystę który oszalał i nie może powiedzieć nic sensownego poza powtarzaniem imienia Hexisa.

@@ -1,15 +1,13 @@
-``
+
 **Odzyskiwanie HP i zasobów podczas podróży**:  
 Podczas podróży long rest jest traktowany jako short rest. Odpoczynek odnawia HP na podstawie hit diceów. Prawdziwy long rest następuje w bezpiecznych miejscach jak: gospoda na trakcie, strzeżony gaj, itp.
-
-  
-**Podróżowanie:**  
-Podróżując z punktu A do B, drużyna powinna odbyć jedno losowe spotkanie oraz napotkać jakieś interesujące miejsce, które ma związek z lore świata. 
 
   
 **Flankowanie:**  
 Kiedy kogoś flankujesz nie ma advantage tylko +2 do trafienia.
 
+**Zaklęcia**
+Podczas swojej tury można rzucić ile się chce zaklęć w oczywistym ograniczeniu akcjami i bonus akcjami.
   
 **Condition -> Frightened(strach):**
 Albo próbujesz jak najszybciej zabić źródło strachu lub tylko uciekasz od źródła strachu. Jeżeli rzut na strach nie powiedzie się o 10 lub więcej, postać traci następną turę i następnie ucieka.
@@ -24,9 +22,9 @@ Obrażenia za trafienie krytyczne są maksymalne na dodatkowych kościach. Crit 
 
 
 **Otwieranie zamków:**  
-Otwieranie zamków jest realizowane za pomocą instrukcji w folderze dnd.
+[[lockpicking rules.png]]
 
-  
+
 **Stracenie całego życia**
 Kiedy osiągnięć 0HP dostajesz jeden punkt zmęczenia.
 
@@ -35,8 +33,9 @@ Kiedy osiągnięć 0HP dostajesz jeden punkt zmęczenia.
 Death save wykonuje DM i pokazuje danemu graczowi.
 
 
-**Picie mikstur leczenia**
-Jeżeli wypijesz miksturę leczenia jako akcje otrzymujesz pełne HP za tą miskture np. 2d4+2 czyli 10HP, jeśli pijesz miksturę jako bonus akcje rzucasz jak normalnie, bo coś może się wylać. Wlanie komuś mikstury do ust to akcja.
+**Picie mikstur**
+Jeżeli wypijesz miksturę leczenia jako akcje otrzymujesz pełne HP za tą miksturę np. 2d4+2 czyli 10HP, jeśli pijesz miksturę jako bonus akcje rzucasz jak normalnie, bo coś może się wylać. Wlanie komuś mikstury do ust to akcja.
+Możesz pić inne typy mikstur jako bonus akcje ale rzucasz 1k100 jaki będzie czas trwania tej mikstury. Minimalnie będzie to wartość 10% standardowego czasu trwania.
 
 
 **Umiejetności względem klasy**
