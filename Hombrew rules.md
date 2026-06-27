@@ -2,13 +2,15 @@
 **Odzyskiwanie HP i zasobów podczas podróży**:  
 Podczas podróży long rest jest traktowany jako short rest. Odpoczynek odnawia HP na podstawie hit diceów. Prawdziwy long rest następuje w bezpiecznych miejscach jak: gospoda na trakcie, strzeżony gaj, itp.
 
-  
+
 **Flankowanie:**  
 Kiedy kogoś flankujesz nie ma advantage tylko +2 do trafienia.
 
+
 **Zaklęcia**
 Podczas swojej tury można rzucić ile się chce zaklęć w oczywistym ograniczeniu akcjami i bonus akcjami.
-  
+
+
 **Condition -> Frightened(strach):**
 Albo próbujesz jak najszybciej zabić źródło strachu lub tylko uciekasz od źródła strachu. Jeżeli rzut na strach nie powiedzie się o 10 lub więcej, postać traci następną turę i następnie ucieka.
 
@@ -38,6 +40,10 @@ Jeżeli wypijesz miksturę leczenia jako akcje otrzymujesz pełne HP za tą miks
 Możesz pić inne typy mikstur jako bonus akcje ale rzucasz 1k100 jaki będzie czas trwania tej mikstury. Minimalnie będzie to wartość 10% standardowego czasu trwania.
 
 
+**Disengage**
+Zrobienie tej akcji daje dodatkowe 10ft ruchu
+
+
 **Umiejetności względem klasy**
 Dla lepszego sensu danej klasy dojdzie do zmian w statystykach branych do umiejętności dla danych klas:
 Barbarzyńca: Intimidation(Str)
@@ -47,4 +53,7 @@ Fighter: Intimidation(Str)
 Monk: Athletics(Dex)
 Ranger: Nature(Wis)
 Wizard: Medicine(Int)
-`
+
+
+**I know a guy**
+![[Pasted image 20260627100257.png]]
