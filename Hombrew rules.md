@@ -56,4 +56,4 @@ Wizard: Medicine(Int)
 
 
 **I know a guy**
-![[Pasted image 20260627100257.png]]
+![[I know a guy - explained.png]]
