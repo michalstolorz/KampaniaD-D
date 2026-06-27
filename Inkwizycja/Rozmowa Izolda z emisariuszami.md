@@ -94,7 +94,7 @@ IZOLD: Nawet jeśli całe Povis będzie nam sojusznikiem. Nawet jeśli razem w t
 
 HATO: Po zdobyciu wszystkich grymuarów ponownie przestudiujemy całość, wtedy już z właściwymi narzędziami, a nie tylko z ich opisem.
 
-IZOLD: Więc wtedy do tego wrócimy. Na ten moment skupmy się na tym co było omówione. Czy coś jeszcze dla mnie macie?
+IZOLD: Więc wtedy do tego wrócimy. Najważniejsze jest aby Zinguris nigdy nie zostało otwarte. NIGDY! Na ten moment skupmy się na tym co było omówione. Czy coś jeszcze dla mnie macie?
 
 MOZYL GABOR: Nie komturze.
 

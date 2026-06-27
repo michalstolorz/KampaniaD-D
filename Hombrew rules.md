@@ -24,7 +24,7 @@ Obrażenia za trafienie krytyczne są maksymalne na dodatkowych kościach. Crit 
 
 
 **Otwieranie zamków:**  
-[[lockpicking rules.png]]
+![[lockpicking rules.png]]
 
 
 **Stracenie całego życia**
