@@ -22,7 +22,6 @@ W jednym z rogów znajdują się jeszcze 2 osobne tablice, które nie są związ
 
 Na jednym ze stołów leży niedokończony eksperyment — dwie miseczki z zastygnętym cieczą srebrzystą, między nimi magiczny krąg narysowany czerwoną kredą. Vespal próbował tu destylować ludzką pamięć do postaci fizycznej. Eksperyment nigdy nie został zakończony. Srebrzysta ciecz w miseczkach to **skroplona emocja** — konkretnie tęsknota wyekstrahowana z dobrowolnego dawcy (Vespal zapisał że zapłacił mieszkańcowi Bellaris za wspomnienie utraconej rodziny). Ciecz jest stabilna ale jeśli ktoś dotknie jej palcem, przez następną godzinę odczuwa nieuzasadnioną melancholię i widzi przez kąt oka półprzezroczyste obrazy — urywki cudzej pamięci. Mechanicznie: disadvantage na testy Insight bo własne emocje zaczynają się mieszać z cudzymi, ale advantage na testy Perception dotyczące planu eterycznego bo granica staje się cieńsza.
 
-
 Przy eksperymencie leży otwarta księga z tytułem *"O Substancjalności Niesubstancjalnego"* autorstwa samego Vespala — najwyraźniej rękopis który nigdy nie trafił do druku. Rozdział który jest otwarty dotyczy teorii że **ifrytom nie jest potrzebne fizyczne miejsce do istnienia** — mogą zakorzenić się w planie eterycznym i stamtąd oddziaływać na rzeczywistość. To bezpośrednio podważa popularne legendy o Zinguris jako fizycznym mieście ze złota.
 
 # **Smaczek fabularny:**
@@ -35,7 +34,7 @@ Na tablicy z notatkami, pośród przekreślonych formuł, bohaterowie mogą znal
 
 - **Eliksir Ostrego Oka** (mikstura, rzadka) — daje przewagę na testy Percepcji i pozwala widzieć niewidzialne stworzenia przez 1 godzinę. Leży w szafce oznaczonej *"gotowe, do użytku"*, jest ich pięć fiolek
   
-- **Eliksir odporności na ogień** x1
+- **Eliksiry:** odporności na ogień x1, odporności na radiant x1, hill giant strength x1, potion of heroism (zmiana, postać jest pod wpływem zaklęcia Heroism na 1 godzine)
 
 - **Zapieczętowana ampułka z brązową cieczą** — brak etykiety. Vespal był w połowie eksperymentu z destylacją wspomnień. Wypicie jej przez gracza powoduje że przez minutę widzi losowe wspomnienie ostatniej osoby która była w pracowni — czyli samego Vespala, który stoi przy tablicy i kreśli zdanie: *"Zbadanie wysp może dać odpowiedź na wiele pytań"*
 

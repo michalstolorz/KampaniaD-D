@@ -4,7 +4,7 @@ MOZYL GABOR: Tak, tak, możemy zaczynać.
 
 IZOLD: Frans, co do cholery stało się w Bellaris?
 
-FRANS ESELIO: My jak i Korona Bellaris nie doceniliśmy chłopskiej rebelii i tego jaki stopień zorganizowania mogą osiągnąć. Do tego wsparcie magów, które otrzymali znikąd jednak przeważyło szale w głównej bitwie w Sławogóre. Od tamtego momentu zostaliśmy zepchnięci do defensywy i jedynie zadania patrolu rzeki Piler były dla nas wykonalne.
+FRANS ESELIO: My jak i Korona Bellaris nie doceniliśmy chłopskiej rebelii i tego jaki stopień zorganizowania mogą osiągnąć. Do tego wsparcie magów, które otrzymali znikąd jednak przeważyło szale w głównej bitwie o Sławogóre. Od tamtego momentu zostaliśmy zepchnięci do defensywy i jedynie zadania patrolu rzeki Piler były dla nas wykonalne.
 
 IZOLD: Czemu templariusze nie uczestniczyli w szturmie na Sławogóre?
 

@@ -35,7 +35,7 @@ W żółtej sekcji historycznej, na wysokości drugiej antresoli, stoi tom zatyt
 
 - **Okulary Czytania** (magiczne, rzadkie) — pozwalają czytać w każdym języku i skrypcie, ale tylko teksty pisane, nie mówione. Leżą na stole do czytania przy oknie
 
-- **Pergamin ze skopiowanym zaklęciem** — *Identify* zapisany na poziomie 2 (jednorazowy)
+- **Zwoje z zaklęciami** — Identify x2, Jump x2, Sleep x2, Tasha's Hideous Laughter x2, Arcane Lock x1, Dragon's Breath x1, Enlarge/Reduce x2, Magic Mouth x1, Skywrite x1, Pyrotechnics x1, Fly x1, Major Image x2, Tiny Servants x1
 
 - **Monografia Vespala "O Naturze Iluzji i Jej Granicach"** — nie jest magiczna, ale dla postaci zainteresowanej magią iluzji może posłużyć jako trzymiesięczna praca badawcza dająca proficiency/expertise w Arcana jeśli jej nie ma, lub przewagę na testy związane z iluzjami
 
