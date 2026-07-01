@@ -12,6 +12,4 @@ Po wykonaniu przynajmniej dwóch misji Vorn przedstawia drużynę królowej **Is
 
 - **Odwołanie do Vespala** — jeśli drużyna coś wie o magu (np. z plotek lub ksiąg gości), może zasugerować że wieża kryje sekrety które mogłyby *pomóc* królowej w wojnie domowej. Blef, ale skuteczny (Deception DC 15)
 
-Jeśli audiencja się powiedzie, królowa wydaje pieczętowany rozkaz dostępu do wieży — ale wyznacza *eskorta* w postaci dwóch straży. Drużyna wchodzi do wieży z obserwatorami których musi jakoś odwieść od wchodzenia zbyt głęboko.
-
-**Komplikacja finałowa:** Gdy drużyna jest w wieży, zaczyna się atak chłopów na twierdzę — wcześniej niż planowano bo ktoś zdradził termin ofensywy Inkwizycji. Jednocześnie oddział Brenne'a wchodzi do twierdzy z innej strony twierdząc że *"przyszedł bronić królowej"*. Chaos pozwala drużynie działać swobodniej w wieży, ale oznacza też że mogą napotkać Inkwizytorów na wyższych piętrach.
+Jeśli audiencja się powiedzie, królowa wydaje pieczętowany rozkaz dostępu do wieży — ale wszyscy wchodzą razem. Dwoje urzędników królewskich, bohaterowie oraz oddział Inkwizycji z Fransem Esselio. Inkwizycja rusza odrazu do biblioteki i tam ją przetrząsa. Urzędnicy się rozdzielają do obu grup. Każdy z nich ma notować co grup biorą ze sobą. Mogą oni odmówić zabrania rzeczy przez bohaterów jako należących do korony. Inkwizycja może również zabrać magiczne przedmioty jeśli bohaterowie będą w nich paradować przed nimi.
