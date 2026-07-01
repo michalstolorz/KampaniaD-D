@@ -33,7 +33,7 @@ Trzecia wyprawa — zapiski urywają się w połowie zdania. Ostatnie słowa: *"
 
 - **Szkatułka z mechanicznym zamkiem** — kombinacja to rok urodzenia Vespala, który można wywnioskować z jego wpisów w księdze gości (zapisał przy okazji własnego wpisu datę swoich 40. urodzin). W środku: 120 złotych monet, dwa rubiny wartości 50 gp każdy i mały amulet z wyrytym okiem — **Amulet Czujności** (magiczny, nie pospolity, wymaga przywiązania): noszący go nie może być zaskoczony podczas odpoczynku i ma advantage na inicjatywę
 
-- Bag of holding
+- Bag of holding - w środku znajdują się 2 diamenty warte 300GP
   
 - Cloak of Protection - znajduje się w garderobie
   

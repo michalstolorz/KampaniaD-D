@@ -11,7 +11,7 @@ Do tego w jednej z skrzyni w spodzie jest wmontowana ukryta skrytka która zawie
 
 Drużyna nie wie o tym na początku. Może się dowiedzieć przez przypadkowe potłuczenie skrzyni podczas transportu, przez test DC 16 Perception przy załadunku jeśli ktoś aktywnie zwraca uwagę na wagę skrzyń (ta jedna jest cięższa niż powinna być przy deklarowanej zawartości), albo przez DC 14 Arcana jeśli ktoś użyje Detect Magic — Głuche Kamienie nie reagują na magię ale ich brak reakcji jest sam w sobie anomalią dla kogoś kto wie czego szuka.
 
-W momencie wjazdu na obszar jurysdykcji Inkwizycji są zatrzymani na posterunku przez oddział. Dugrak już transportował tym szlakiem towary ale tego posterunku nie było tu nigdy. Żołnierze dokładnie przeglądają skrzynie, a nawet udaje im się znaleźć ukrytą skrytke z magicznymi przedmiotami.  
+W momencie wjazdu na obszar jurysdykcji Inkwizycji są zatrzymani na posterunku przez oddział. Dugrak już transportował tym szlakiem towary ale tego posterunku nie było tu nigdy. Żołnierze dokładnie przeglądają skrzynie, a nawet udaje im się znaleźć ukrytą skrytkę z magicznymi przedmiotami.  
 
 ### Warunki Dugraka
 
