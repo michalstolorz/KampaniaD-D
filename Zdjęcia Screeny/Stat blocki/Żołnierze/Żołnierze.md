@@ -1,0 +1,10 @@
+![[Ciężki Kawalerzysta.png]]
+
+![[Veteran.png]]
+![[Bodyguard.png]]
+![[Heavy Spearman.png]]
+![[Heavy Axeman.png]]
+![[Heavy Swordsman.png]]
+![[Spearman.png]]
+![[Axeman.png]]![[Swordman.png]]
+![[Lekki Kawalerzysta.png]]![[Kawalerzysta.png]]![[Pikeman.png]]
