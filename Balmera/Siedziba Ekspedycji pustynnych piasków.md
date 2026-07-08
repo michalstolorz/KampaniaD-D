@@ -1,3 +1,4 @@
+[[Plakat Ekspedycji Pustynnych Piasków.png]]
 Jeśli w drużynie znajduje się członek Inkwizycji to przychodzi do tego miejsca podczas swojej przepustki, zbadać z ciekawości co to za organizacja.
 
 Gracze wchodząc widzą siedzibe w totalnym chaosie. Wszędzie świeże zaszlachtowane ciała. Wszystko porozrzucane. Wchodząc do budynku przestają słyszeć gwar na ulicy, mimo że trwa dzień targowy. Badając miejsce mogą po chwili znaleźć pod jednym z stołów kryjącego się niziołka Caldrona, który trzyma dosyć opasły Grymuar. Po chwili uspokajania go że nie grozi mu juz niebezpieczeństwo opowie o całym zamieszaniu, celu Ekspedycji w tym o potrzebie zdobycia grymuarów profesora Tashy Walmara traktujących o mitach, podaniach i pogłoskach o Zinguris. Jedną z nich ma sam niziołek a pozostałe są zlokalizowane w:
