@@ -1,6 +1,6 @@
 
 **Odzyskiwanie HP i zasobów podczas podróży**:  
-Podczas podróży long rest jest traktowany jako short rest. Odpoczynek odnawia HP na podstawie hit diceów. Prawdziwy long rest następuje w bezpiecznych miejscach jak: gospoda na trakcie, strzeżony gaj, itp.
+Podczas podróży long rest jest traktowany jako short rest. Odpoczynek odnawia HP na podstawie zasobu hit diceów. Prawdziwy long rest następuje w bezpiecznych miejscach jak: gospoda na trakcie, strzeżony gaj, itp.
 
 
 **Flankowanie:**  
@@ -32,7 +32,7 @@ Kiedy osiągnięć 0HP dostajesz jeden punkt zmęczenia.
 
 
 **Death saving throw**
-Death save wykonuje DM i pokazuje danemu graczowi.
+Death save wykonuje DM i pokazuje danemu graczowi. Failed death savy zostają z postacią do long resta.
 
 
 **Picie mikstur**
