@@ -1,1 +1,2 @@
-Dowódca - kapitan Grendal
+Dowódca - kapitan Grendal, były dowódca 3 kompani pancernej
+Idea rebeli chłopskiej w głowie Grendala rozpoczeła się po Wielkim Kryzysie kiedy w Bellaris za sprawą Hexisa który sprowadził tu kolonie Mind Flayerów całe królestwo stało się kolektywem i klasy nie miały żadnego znaczenia. Każdy był równy. Ta idea była idealną podstawą do buntu. Jednak główną motywacją Grendala jest ambicja. Jego ostatecznym celem jest stanąć na czele Bellaris. Uważa że będąc żołnierzem a później oficerem który wywodzi się z chłopstwa zna lepiej całe społeczeństwo i wie lepiej jak rządzić państwem sprawiedliwie i efektywnie. Jeśli rebelia się powiedzie przejmie władzę w królestwie jako regent, aby następnie zostać uznany za godnego korony.
