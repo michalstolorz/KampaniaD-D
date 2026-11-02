@@ -54,7 +54,7 @@ MOZYL GABOR: Dobrze że nasza twierdza uniemożliwia wszelkie rodzaje teleportac
 
 FRANS ESELIO: tak
 
-MOZYL GABOR: Dobrze. Skoro już jestem przy głosie. Kwestia Balmery. Operacja, którą szykujemy od początku istnienia czeka na domknięcie. Wszystkie elementy są na miejscu. Mamy potwierdzenie z odpowiednich stron że wszyscy przybędą na uroczystość. Komturze rozmawialiśmy o tym i wiem że masz wątpliwości. Chciałbym usłyszeć czemu nie wydałeś zgody na finalizacje i sygnał dla agenta? 
+MOZYL GABOR: Dobrze. Skoro już jestem przy głosie. Kwestia Balmery. Przewrót, który szykujemy od początku istnienia czeka na domknięcie. Wszystkie elementy są na miejscu. Mamy potwierdzenie z odpowiednich stron że wszyscy przybędą na uroczystość. Komturze rozmawialiśmy o tym i wiem że masz wątpliwości. Chciałbym usłyszeć czemu nie wydałeś zgody na finalizacje i sygnał dla agenta? 
 
 IZOLD: Bo wydarzeń puszczonych w bieg nie da się zatrzymać ani odwrócić ich skutków. A nieodwracalność wymaga pewności. Wciąż jej nie mam.
 
